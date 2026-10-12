@@ -1,0 +1,19 @@
+{
+  "wheel_id": 359,
+  "structure": "umbrella",
+  "slug": "roofingcompanysarasota-105",
+  "project": "roof-repairs-sarasota-comparison-191136bcea40972218691d91b2b99c",
+  "parent_t1_ref": "roofingcompanysarasota-152",
+  "node_role": "feeder",
+  "money_target": "roofingcompanysarasota.net",
+  "primary_kw": "roof repairs sarasota comparison",
+  "intended_url": "http://roof-repairs-sarasota-comparison-191136bcea40972218691d91b2b99c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "bdafb18d692195b0",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/roofingcompanysarasota-152/",
+      "anchor": "roof repairs sarasota",
+      "rel": "follow"
+    }
+  ]
+}
